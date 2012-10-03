@@ -11,6 +11,7 @@ BuildRequires:  kde-filesystem
 BuildRequires:  kde-workspace-devel
 BuildRequires:  qt4-devel
 BuildRequires:  cmake
+BuildRequires:  gettext
 
 %description
 The Server Status Widget is a Plasma widget (a.k.a. applet or Plasmoid) for
